@@ -1,10 +1,10 @@
 {
   "name": "prospect-ai",
   "version": "0.2.0",
-  "private": true,
   "type": "module",
   "scripts": {
     "check": "node index.js",
     "discover": "node discover.js"
-  }
+  },
+  "engines": { "node": ">=20" }
 }
